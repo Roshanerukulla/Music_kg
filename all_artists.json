@@ -1,0 +1,824 @@
+{
+    "artists": [
+        {
+            "mbid": "0d79fe8e-ba27-4859-bb8c-2f255f346853",
+            "name": "BTS",
+            "country": "KR",
+            "genres": [
+                "k-pop",
+                "pop"
+            ],
+            "tags": [
+                "2010s",
+                "2020s",
+                "boy group",
+                "english"
+            ],
+            "aliases": [
+                "BTS",
+                "BTS",
+                "BTS",
+                "BTS (防弾少年団)",
+                "Bangtan Boys",
+                "Bangtan Sonyeondan",
+                "Beyond the Scene",
+                "Bulletproof Boy Scouts",
+                "Bōdan Shōnendan",
+                "The Bangtan Boys",
+                "防弾少年団",
+                "방탄",
+                "방탄소년단"
+            ],
+            "releases": [
+                {
+                    "mbid": "565b9a61-0443-4879-a08e-2eb5e748114c",
+                    "title": "2 COOL 4 SKOOL",
+                    "date": "2013-06-12",
+                    "status": "Official",
+                    "label": "BigHit Entertainment",
+                    "genres": [],
+                    "tags": [],
+                    "recordings": [
+                        {
+                            "mbid": "a7aec288-5aa5-472d-83fc-aa5315103b80",
+                            "title": "Intro : 2 COOL 4 SKOOL",
+                            "length_ms": 63000,
+                            "genres": [],
+                            "tags": []
+                        },
+                        {
+                            "mbid": "d2523b07-5ba1-4155-8654-0f868d8566c2",
+                            "title": "We Are Bulletproof PT.2",
+                            "length_ms": 223000,
+                            "genres": [],
+                            "tags": []
+                        },
+                        {
+                            "mbid": "bd37e90f-f520-4a45-9964-563a39158414",
+                            "title": "Skit : Circle Room Talk",
+                            "length_ms": 131000,
+                            "genres": [],
+                            "tags": []
+                        },
+                        {
+                            "mbid": "2da0d7f3-787f-44ee-b81e-5a7d68ba88a4",
+                            "title": "No More Dream",
+                            "length_ms": 222000,
+                            "genres": [],
+                            "tags": []
+                        },
+                        {
+                            "mbid": "1332fb43-23fc-4cda-89e9-693a873ce2ff",
+                            "title": "Interlude",
+                            "length_ms": 52000,
+                            "genres": [],
+                            "tags": [
+                                "instrumental"
+                            ]
+                        },
+                        {
+                            "mbid": "fac7272f-5a2e-4937-bd40-f156ff4ef61f",
+                            "title": "좋아요",
+                            "length_ms": 231000,
+                            "genres": [],
+                            "tags": []
+                        },
+                        {
+                            "mbid": "c06159c7-2eb5-41f9-845c-f135f88a9cf5",
+                            "title": "Outro : Circle Room Cypher",
+                            "length_ms": 321000,
+                            "genres": [],
+                            "tags": []
+                        },
+                        {
+                            "mbid": "d433d803-5b53-465e-9bee-a9186790b1c9",
+                            "title": "Skit : On the Start Line",
+                            "length_ms": 153000,
+                            "genres": [],
+                            "tags": []
+                        },
+                        {
+                            "mbid": "705584e2-8de6-4825-b8d5-b767080012ad",
+                            "title": "길",
+                            "length_ms": 228000,
+                            "genres": [],
+                            "tags": []
+                        }
+                    ]
+                },
+                {
+                    "mbid": "4dbf343a-3138-4e67-bbec-7eaec8f27acd",
+                    "title": "2 Cool 4 Skool",
+                    "date": "2013-06-12",
+                    "status": "Official",
+                    "label": "BigHit Entertainment",
+                    "genres": [],
+                    "tags": [],
+                    "recordings": [
+                        {
+                            "mbid": "a7aec288-5aa5-472d-83fc-aa5315103b80",
+                            "title": "Intro : 2 COOL 4 SKOOL",
+                            "length_ms": 63000,
+                            "genres": [],
+                            "tags": []
+                        },
+                        {
+                            "mbid": "d2523b07-5ba1-4155-8654-0f868d8566c2",
+                            "title": "We Are Bulletproof PT.2",
+                            "length_ms": 223000,
+                            "genres": [],
+                            "tags": []
+                        },
+                        {
+                            "mbid": "bd37e90f-f520-4a45-9964-563a39158414",
+                            "title": "Skit : Circle Room Talk",
+                            "length_ms": 131000,
+                            "genres": [],
+                            "tags": []
+                        },
+                        {
+                            "mbid": "2da0d7f3-787f-44ee-b81e-5a7d68ba88a4",
+                            "title": "No More Dream",
+                            "length_ms": 222000,
+                            "genres": [],
+                            "tags": []
+                        },
+                        {
+                            "mbid": "1332fb43-23fc-4cda-89e9-693a873ce2ff",
+                            "title": "Interlude",
+                            "length_ms": 52000,
+                            "genres": [],
+                            "tags": [
+                                "instrumental"
+                            ]
+                        },
+                        {
+                            "mbid": "fac7272f-5a2e-4937-bd40-f156ff4ef61f",
+                            "title": "좋아요",
+                            "length_ms": 231000,
+                            "genres": [],
+                            "tags": []
+                        },
+                        {
+                            "mbid": "c06159c7-2eb5-41f9-845c-f135f88a9cf5",
+                            "title": "Outro : Circle Room Cypher",
+                            "length_ms": 321000,
+                            "genres": [],
+                            "tags": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "mbid": "cc197bad-dc9c-440d-a5b5-d52ba2e14234",
+            "name": "Coldplay",
+            "country": "GB",
+            "genres": [
+                "pop",
+                "rock"
+            ],
+            "tags": [
+                "alternative rock",
+                "ambient pop",
+                "art pop",
+                "big music",
+                "britannique",
+                "british",
+                "britpop",
+                "chapel",
+                "dream pop",
+                "english",
+                "indie pop",
+                "indie rock",
+                "parlophone",
+                "piano pop",
+                "piano rock",
+                "pop rock",
+                "pop/rock",
+                "post-britpop",
+                "rock and indie",
+                "uk"
+            ],
+            "aliases": [
+                "Cold Play",
+                "Coolplay",
+                "The Coldplay",
+                "コールドプレイ",
+                "콜드플레이"
+            ],
+            "releases": [
+                {
+                    "mbid": "8d2a5f0a-2140-4e74-89ae-ac7f314e7f59",
+                    "title": "Safety e.p.",
+                    "date": "1998-05-18",
+                    "status": "Official",
+                    "label": "[no label]",
+                    "genres": [],
+                    "tags": [],
+                    "recordings": [
+                        {
+                            "mbid": "c2476a0c-d594-4759-86bc-307500d16c1d",
+                            "title": "Bigger Stronger",
+                            "length_ms": 289133,
+                            "genres": [
+                                "rock"
+                            ],
+                            "tags": [
+                                "acoustic rock",
+                                "alternative",
+                                "alternative rock",
+                                "brit pop and rock",
+                                "britpop",
+                                "indie rock",
+                                "pop rock",
+                                "pop/rock"
+                            ]
+                        },
+                        {
+                            "mbid": "1521a56b-ad65-4810-8f25-661f23339f76",
+                            "title": "No More Keeping My Feet on the Ground",
+                            "length_ms": 271173,
+                            "genres": [
+                                "indie",
+                                "pop",
+                                "rock"
+                            ],
+                            "tags": [
+                                "acoustic rock",
+                                "alternative",
+                                "alternative rock",
+                                "brit pop and rock",
+                                "indie rock",
+                                "pop rock",
+                                "pop/rock"
+                            ]
+                        },
+                        {
+                            "mbid": "fd617394-7ac6-4c52-9a7b-7aedf1492a98",
+                            "title": "Such a Rush",
+                            "length_ms": 297000,
+                            "genres": [
+                                "rock"
+                            ],
+                            "tags": [
+                                "acoustic rock",
+                                "alternative rock",
+                                "indie rock",
+                                "pop rock",
+                                "pop/rock"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "mbid": "8f087da3-05cd-4a84-9543-cdaa69b1dec9",
+                    "title": "Ode to Deodorant / Brothers + Sisters",
+                    "date": "1998",
+                    "status": "Promotion",
+                    "label": "[no label]",
+                    "genres": [],
+                    "tags": [],
+                    "recordings": [
+                        {
+                            "mbid": "8c21fa50-91ef-45eb-82d3-915eea50b38e",
+                            "title": "Ode to Deodorant",
+                            "length_ms": 264000,
+                            "genres": [],
+                            "tags": []
+                        },
+                        {
+                            "mbid": "33ff560a-7c81-489a-9a66-50556001dbd1",
+                            "title": "Brothers + Sisters",
+                            "length_ms": 268000,
+                            "genres": [],
+                            "tags": [
+                                "alternative rock"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "mbid": "41ff7032-f14b-4cf8-acf3-54b545927f8d",
+            "name": "Go West",
+            "country": "GB",
+            "genres": [
+                "pop"
+            ],
+            "tags": [
+                "english",
+                "pop rock",
+                "sophisti-pop",
+                "synth-pop"
+            ],
+            "aliases": [],
+            "releases": [
+                {
+                    "mbid": "de2747ec-c3a2-4fb3-8300-d24980f2ec40",
+                    "title": "We Close Our Eyes (Total Overhang Mix)",
+                    "date": "1985-04-15",
+                    "status": "Official",
+                    "label": "Chrysalis",
+                    "genres": [],
+                    "tags": [],
+                    "recordings": [
+                        {
+                            "mbid": "4f922eb7-41bc-44cd-ab32-a129e8c8d740",
+                            "title": "We Close Our Eyes (Total Overhang Club Mix)",
+                            "length_ms": 400000,
+                            "genres": [],
+                            "tags": []
+                        },
+                        {
+                            "mbid": "9be13b95-6a60-4053-9cfb-b4c40bb86c73",
+                            "title": "We Close Our Eyes (Total Overhang Dub Mix)",
+                            "length_ms": 355000,
+                            "genres": [],
+                            "tags": []
+                        },
+                        {
+                            "mbid": "36cccb39-ca30-4173-8efc-8b93e6d0d4c3",
+                            "title": "Missing Persons",
+                            "length_ms": 326333,
+                            "genres": [],
+                            "tags": []
+                        }
+                    ]
+                },
+                {
+                    "mbid": "dd771af9-b212-41ee-8f8d-0111039d01fb",
+                    "title": "We Close Our Eyes",
+                    "date": "1985",
+                    "status": "Official",
+                    "label": "Chrysalis",
+                    "genres": [],
+                    "tags": [],
+                    "recordings": [
+                        {
+                            "mbid": "1bab464c-c30c-4a76-a3a4-d0525e7e0936",
+                            "title": "We Close Our Eyes",
+                            "length_ms": 227000,
+                            "genres": [],
+                            "tags": []
+                        },
+                        {
+                            "mbid": "36cccb39-ca30-4173-8efc-8b93e6d0d4c3",
+                            "title": "Missing Persons",
+                            "length_ms": 326333,
+                            "genres": [],
+                            "tags": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "mbid": "a74b1b7f-71a5-4011-9441-d0b5e4122711",
+            "name": "Radiohead",
+            "country": "GB",
+            "genres": [
+                "electronic",
+                "rock"
+            ],
+            "tags": [
+                "alternative",
+                "alternative rock",
+                "alternative rock music",
+                "art pop",
+                "art rock",
+                "british",
+                "electronica",
+                "experimental rock",
+                "indie rock",
+                "post-britpop",
+                "progressive rock music"
+            ],
+            "aliases": [
+                "Radio Head",
+                "Radiohead & Thom Yorke",
+                "r/head",
+                "レディオヘッド",
+                "电台司令"
+            ],
+            "releases": [
+                {
+                    "mbid": "ca1306a2-1064-4998-a919-ee123fffd7e2",
+                    "title": "Radiohead",
+                    "date": "1991",
+                    "status": "Promotion",
+                    "label": "Parlophone",
+                    "genres": [],
+                    "tags": [],
+                    "recordings": [
+                        {
+                            "mbid": "7f833f62-7a47-4cfd-aa01-b2947f963f9c",
+                            "title": "Prove Yourself (demo)",
+                            "length_ms": 153000,
+                            "genres": [
+                                "rock"
+                            ],
+                            "tags": [
+                                "alternative rock"
+                            ]
+                        },
+                        {
+                            "mbid": "f5949d66-5858-424b-8e88-c451a62c151c",
+                            "title": "Inside My Head (demo)",
+                            "length_ms": 199360,
+                            "genres": [],
+                            "tags": []
+                        },
+                        {
+                            "mbid": "fbbf36c7-6fb1-4f68-8e2d-53ce8e7d9ba5",
+                            "title": "I Can’t (demo)",
+                            "length_ms": 246973,
+                            "genres": [],
+                            "tags": []
+                        },
+                        {
+                            "mbid": "a28787b1-d380-4c42-956d-07912c4556d7",
+                            "title": "Million Dollar Question (demo)",
+                            "length_ms": 214080,
+                            "genres": [],
+                            "tags": []
+                        }
+                    ]
+                },
+                {
+                    "mbid": "66df698a-7944-3251-b3f6-b62461fedecd",
+                    "title": "Drill",
+                    "date": "1992-05-05",
+                    "status": "Official",
+                    "label": "Parlophone",
+                    "genres": [],
+                    "tags": [],
+                    "recordings": [
+                        {
+                            "mbid": "4e356722-3972-4513-a839-ffe8a0803104",
+                            "title": "Prove Yourself",
+                            "length_ms": 152733,
+                            "genres": [],
+                            "tags": []
+                        },
+                        {
+                            "mbid": "e82baf83-3cbf-4f33-9552-99ded0358dad",
+                            "title": "Stupid Car",
+                            "length_ms": 146840,
+                            "genres": [],
+                            "tags": []
+                        },
+                        {
+                            "mbid": "d52ddd63-9898-4325-b2fe-dbf56ea5f338",
+                            "title": "You",
+                            "length_ms": 203333,
+                            "genres": [],
+                            "tags": []
+                        },
+                        {
+                            "mbid": "e7c25fa9-545a-4f3b-94be-d6523066b916",
+                            "title": "Thinking About You",
+                            "length_ms": 135293,
+                            "genres": [
+                                "rock"
+                            ],
+                            "tags": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "mbid": "20244d07-534f-4eff-b4d4-930878889970",
+            "name": "Taylor Swift",
+            "country": "US",
+            "genres": [
+                "country",
+                "pop"
+            ],
+            "tags": [
+                "2000s",
+                "2010s",
+                "2020s",
+                "alternative pop",
+                "artist of the decade",
+                "contemporary country",
+                "country pop",
+                "cultural icon",
+                "electropop",
+                "female vocals",
+                "icon",
+                "indie folk",
+                "late 2000s",
+                "millennial",
+                "nuno",
+                "pop rock",
+                "re-recording",
+                "singer-songwriter",
+                "singer/songwriter",
+                "synth-pop"
+            ],
+            "aliases": [
+                "Dr. Taylor Alison Swift",
+                "Nils Sjöberg",
+                "T-Swizzle",
+                "Taylor Alison Swift",
+                "Taylor Swift",
+                "Taylor Swiftová",
+                "Taylor Swiftová",
+                "Taylur Swift",
+                "Teilora Svifta",
+                "Teýlor Swift",
+                "Τέιλορ Σουίφτ",
+                "Тейлор Свифт",
+                "Тейлор Свифт",
+                "Тейлор Свифт",
+                "Тейлор Свіфт",
+                "Тейлър Суифт",
+                "Тејлор Свифт",
+                "Тејлор Свифт",
+                "Тэйлар Свіфт",
+                "Тэйлор Свифт",
+                "Тэйлор Суифт",
+                "Թեյլոր Սվիֆթ",
+                "Թէյլըր Սուիֆթ",
+                "טיילור סוויפט",
+                "טעילאר סוויפט",
+                "تایلر سویفت",
+                "تیلور سوئیفت",
+                "تیلور سوئیفت",
+                "ٹیلر سوئفٹ",
+                "ٹیلر سوئفٹ",
+                "ٹیلر سوئفٹ",
+                "ٹیلر سوئفٹ",
+                "टेलर स्विफ्ट",
+                "टेलर स्विफ्ट",
+                "टेलर स्विफ्ट",
+                "टेलर स्विफ्ट",
+                "टेलर स्विफ्ट",
+                "টেইলর সুইফট",
+                "টেইলৰ ছুইফ্ট",
+                "ਟੇਲਰ ਸਵਿਫਟ",
+                "டேலர் ஸ்விஃப்ட்",
+                "టేలర్ స్విఫ్ట్",
+                "ಟೈಲರ್ ಸ್ವಿಫ್ಟ್",
+                "ടെയിലർ സ്വിഫ്റ്റ്",
+                "ටේලර් ස්විෆ්ට්",
+                "เทย์เลอร์ สวิฟต์",
+                "ເທເລໍ່ ສວິຟ",
+                "တေလာဆွစ်ဖ်",
+                "ტეილორ სვიფტი",
+                "ថេល័រ ស្វីហ្វត៍",
+                "テイラー・スウィフト",
+                "泰勒·史薇芙特",
+                "泰勒·斯威夫特",
+                "泰勒丝",
+                "泰勒絲",
+                "霉霉",
+                "테일러 스위프트"
+            ],
+            "releases": [
+                {
+                    "mbid": "0b05a46b-70ca-4c1a-96e3-7c68c4a1e657",
+                    "title": "2002 Demo CD",
+                    "date": "2002",
+                    "status": "Promotion",
+                    "label": "Leesport",
+                    "genres": [],
+                    "tags": [],
+                    "recordings": [
+                        {
+                            "mbid": "579d877c-ca53-417b-85e9-515d3966e3ba",
+                            "title": "American Boy (acoustic version)",
+                            "length_ms": 196000,
+                            "genres": [],
+                            "tags": []
+                        },
+                        {
+                            "mbid": "1d9d967d-f64e-45eb-8c21-5c8e245c8aec",
+                            "title": "Lucky You",
+                            "length_ms": 218000,
+                            "genres": [
+                                "country"
+                            ],
+                            "tags": [
+                                "country music",
+                                "country pop",
+                                "indie folk",
+                                "pop music",
+                                "pop rock",
+                                "synth-pop"
+                            ]
+                        },
+                        {
+                            "mbid": "a32454bb-9708-423c-89b5-f0a2e5871e88",
+                            "title": "Smokey Black Nights",
+                            "length_ms": 194000,
+                            "genres": [
+                                "country"
+                            ],
+                            "tags": [
+                                "country pop",
+                                "indie folk",
+                                "pop rock",
+                                "synth-pop"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "mbid": "12af5c01-1766-4f67-9517-98d1a810c8d1",
+                    "title": "Here You Come Again",
+                    "date": "2002",
+                    "status": "Promotion",
+                    "label": "[no label]",
+                    "genres": [],
+                    "tags": [],
+                    "recordings": [
+                        {
+                            "mbid": "a9ec7b7f-02d5-4bc4-87d5-5e32e35db9e1",
+                            "title": "Here You Come Again",
+                            "length_ms": null,
+                            "genres": [
+                                "country"
+                            ],
+                            "tags": [
+                                "country pop"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "mbid": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+            "name": "The Beatles",
+            "country": "GB",
+            "genres": [
+                "pop",
+                "rock"
+            ],
+            "tags": [
+                "1960s",
+                "60s",
+                "beat",
+                "british",
+                "british invasion",
+                "classic rock",
+                "europe",
+                "liverpool",
+                "mainstream rock",
+                "merseybeat",
+                "pop rock",
+                "popular music",
+                "psychedelia",
+                "psychedelic pop",
+                "psychedelic rock",
+                "rock and roll",
+                "rock groups",
+                "rock music"
+            ],
+            "aliases": [
+                "Beatles",
+                "Beetles",
+                "Bítlarnir",
+                "Die Beatles",
+                "I Beatles",
+                "Les Beatles",
+                "Los Beatles",
+                "The Beatles",
+                "The Silver Beatles",
+                "fab four",
+                "Битлз",
+                "Битлси",
+                "Бітлз",
+                "Պիթլս",
+                "די ביטלס",
+                "הביטלס",
+                "البيتلز",
+                "بیتلز",
+                "بیٹلز",
+                "द बिटल्स",
+                "द बीटल्स",
+                "দ্য বিটল্‌স",
+                "ਦ ਬੀਟਲਜ਼",
+                "ધ બિટલ્સ",
+                "பீட்டில்ஸ்",
+                "ద బీటిల్స్",
+                "ದಿ ಬೀಟಲ್ಸ್",
+                "ദി ബീറ്റിൽസ്",
+                "เดอะบีเทิลส์",
+                "ဘီးတဲလ်အဖွဲ့",
+                "ბითლზი",
+                "ዘ ቢተልስ",
+                "ᱫᱚ ᱵᱤᱴᱞᱮᱥ",
+                "ザ・ビートルズ",
+                "披头士",
+                "披头士乐队",
+                "披头士乐队",
+                "披頭四",
+                "披頭四樂團",
+                "披頭四樂隊",
+                "더 비틀즈"
+            ],
+            "releases": [
+                {
+                    "mbid": "c1177b07-b075-4af3-ba89-32d438b047e6",
+                    "title": "My Bonnie",
+                    "date": "1962-01-05",
+                    "status": "Official",
+                    "label": "Polydor",
+                    "genres": [],
+                    "tags": [],
+                    "recordings": [
+                        {
+                            "mbid": "d77c43a1-7804-46ce-98c3-8da60ebba7ba",
+                            "title": "My Bonnie",
+                            "length_ms": 162160,
+                            "genres": [
+                                "pop",
+                                "rock"
+                            ],
+                            "tags": [
+                                "beat music",
+                                "classic rock",
+                                "merseybeat",
+                                "oldies",
+                                "rock & roll",
+                                "rock and roll"
+                            ]
+                        },
+                        {
+                            "mbid": "bb0fc222-e480-48a5-89ec-a564efb3886a",
+                            "title": "The Saints",
+                            "length_ms": 199000,
+                            "genres": [
+                                "rock"
+                            ],
+                            "tags": [
+                                "beat",
+                                "rock & roll",
+                                "rock and roll"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "mbid": "0805a5cf-d036-41c3-bc9b-af52aa01b21b",
+                    "title": "Love Me Do",
+                    "date": "1962-10-05",
+                    "status": "Promotion",
+                    "label": "Parlophone",
+                    "genres": [],
+                    "tags": [],
+                    "recordings": [
+                        {
+                            "mbid": "f87eb4dd-7e3c-4365-a3c8-f144696f5952",
+                            "title": "Love Me Do",
+                            "length_ms": 143906,
+                            "genres": [
+                                "pop",
+                                "rock"
+                            ],
+                            "tags": [
+                                "am pop",
+                                "beat music",
+                                "british invasion",
+                                "british psychedelia",
+                                "contemporary pop/rock",
+                                "early pop/rock",
+                                "early to mid 60's",
+                                "folk-rock",
+                                "merseybeat",
+                                "pop rock",
+                                "pop/rock",
+                                "psychedelic rock",
+                                "psychedelic/garage",
+                                "rock & roll",
+                                "rock and roll",
+                                "rock pop",
+                                "unknown"
+                            ]
+                        },
+                        {
+                            "mbid": "c84e23aa-20d9-45df-85cb-a6ecdba6e44e",
+                            "title": "P.S. I Love You",
+                            "length_ms": 124000,
+                            "genres": [
+                                "pop",
+                                "rock"
+                            ],
+                            "tags": [
+                                "ballad",
+                                "beat",
+                                "british invasion",
+                                "classic rock"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

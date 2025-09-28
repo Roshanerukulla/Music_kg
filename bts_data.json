@@ -1,0 +1,170 @@
+{
+    "mbid": "0d79fe8e-ba27-4859-bb8c-2f255f346853",
+    "name": "BTS",
+    "country": "KR",
+    "genres": [
+        "k-pop",
+        "pop"
+    ],
+    "tags": [
+        "2010s",
+        "2020s",
+        "boy group",
+        "english"
+    ],
+    "aliases": [
+        "BTS",
+        "BTS",
+        "BTS",
+        "BTS (防弾少年団)",
+        "Bangtan Boys",
+        "Bangtan Sonyeondan",
+        "Beyond the Scene",
+        "Bulletproof Boy Scouts",
+        "Bōdan Shōnendan",
+        "The Bangtan Boys",
+        "防弾少年団",
+        "방탄",
+        "방탄소년단"
+    ],
+    "releases": [
+        {
+            "mbid": "565b9a61-0443-4879-a08e-2eb5e748114c",
+            "title": "2 COOL 4 SKOOL",
+            "date": "2013-06-12",
+            "status": "Official",
+            "label": "BigHit Entertainment",
+            "genres": [],
+            "tags": [],
+            "recordings": [
+                {
+                    "mbid": "a7aec288-5aa5-472d-83fc-aa5315103b80",
+                    "title": "Intro : 2 COOL 4 SKOOL",
+                    "length_ms": 63000,
+                    "genres": [],
+                    "tags": []
+                },
+                {
+                    "mbid": "d2523b07-5ba1-4155-8654-0f868d8566c2",
+                    "title": "We Are Bulletproof PT.2",
+                    "length_ms": 223000,
+                    "genres": [],
+                    "tags": []
+                },
+                {
+                    "mbid": "bd37e90f-f520-4a45-9964-563a39158414",
+                    "title": "Skit : Circle Room Talk",
+                    "length_ms": 131000,
+                    "genres": [],
+                    "tags": []
+                },
+                {
+                    "mbid": "2da0d7f3-787f-44ee-b81e-5a7d68ba88a4",
+                    "title": "No More Dream",
+                    "length_ms": 222000,
+                    "genres": [],
+                    "tags": []
+                },
+                {
+                    "mbid": "1332fb43-23fc-4cda-89e9-693a873ce2ff",
+                    "title": "Interlude",
+                    "length_ms": 52000,
+                    "genres": [],
+                    "tags": [
+                        "instrumental"
+                    ]
+                },
+                {
+                    "mbid": "fac7272f-5a2e-4937-bd40-f156ff4ef61f",
+                    "title": "좋아요",
+                    "length_ms": 231000,
+                    "genres": [],
+                    "tags": []
+                },
+                {
+                    "mbid": "c06159c7-2eb5-41f9-845c-f135f88a9cf5",
+                    "title": "Outro : Circle Room Cypher",
+                    "length_ms": 321000,
+                    "genres": [],
+                    "tags": []
+                },
+                {
+                    "mbid": "d433d803-5b53-465e-9bee-a9186790b1c9",
+                    "title": "Skit : On the Start Line",
+                    "length_ms": 153000,
+                    "genres": [],
+                    "tags": []
+                },
+                {
+                    "mbid": "705584e2-8de6-4825-b8d5-b767080012ad",
+                    "title": "길",
+                    "length_ms": 228000,
+                    "genres": [],
+                    "tags": []
+                }
+            ]
+        },
+        {
+            "mbid": "4dbf343a-3138-4e67-bbec-7eaec8f27acd",
+            "title": "2 Cool 4 Skool",
+            "date": "2013-06-12",
+            "status": "Official",
+            "label": "BigHit Entertainment",
+            "genres": [],
+            "tags": [],
+            "recordings": [
+                {
+                    "mbid": "a7aec288-5aa5-472d-83fc-aa5315103b80",
+                    "title": "Intro : 2 COOL 4 SKOOL",
+                    "length_ms": 63000,
+                    "genres": [],
+                    "tags": []
+                },
+                {
+                    "mbid": "d2523b07-5ba1-4155-8654-0f868d8566c2",
+                    "title": "We Are Bulletproof PT.2",
+                    "length_ms": 223000,
+                    "genres": [],
+                    "tags": []
+                },
+                {
+                    "mbid": "bd37e90f-f520-4a45-9964-563a39158414",
+                    "title": "Skit : Circle Room Talk",
+                    "length_ms": 131000,
+                    "genres": [],
+                    "tags": []
+                },
+                {
+                    "mbid": "2da0d7f3-787f-44ee-b81e-5a7d68ba88a4",
+                    "title": "No More Dream",
+                    "length_ms": 222000,
+                    "genres": [],
+                    "tags": []
+                },
+                {
+                    "mbid": "1332fb43-23fc-4cda-89e9-693a873ce2ff",
+                    "title": "Interlude",
+                    "length_ms": 52000,
+                    "genres": [],
+                    "tags": [
+                        "instrumental"
+                    ]
+                },
+                {
+                    "mbid": "fac7272f-5a2e-4937-bd40-f156ff4ef61f",
+                    "title": "좋아요",
+                    "length_ms": 231000,
+                    "genres": [],
+                    "tags": []
+                },
+                {
+                    "mbid": "c06159c7-2eb5-41f9-845c-f135f88a9cf5",
+                    "title": "Outro : Circle Room Cypher",
+                    "length_ms": 321000,
+                    "genres": [],
+                    "tags": []
+                }
+            ]
+        }
+    ]
+}

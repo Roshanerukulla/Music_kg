@@ -1,0 +1,162 @@
+{
+    "mbid": "20244d07-534f-4eff-b4d4-930878889970",
+    "name": "Taylor Swift",
+    "country": "US",
+    "genres": [
+        "country",
+        "pop"
+    ],
+    "tags": [
+        "2000s",
+        "2010s",
+        "2020s",
+        "alternative pop",
+        "artist of the decade",
+        "contemporary country",
+        "country pop",
+        "cultural icon",
+        "electropop",
+        "female vocals",
+        "icon",
+        "indie folk",
+        "late 2000s",
+        "millennial",
+        "nuno",
+        "pop rock",
+        "re-recording",
+        "singer-songwriter",
+        "singer/songwriter",
+        "synth-pop"
+    ],
+    "aliases": [
+        "Dr. Taylor Alison Swift",
+        "Nils Sjöberg",
+        "T-Swizzle",
+        "Taylor Alison Swift",
+        "Taylor Swift",
+        "Taylor Swiftová",
+        "Taylor Swiftová",
+        "Taylur Swift",
+        "Teilora Svifta",
+        "Teýlor Swift",
+        "Τέιλορ Σουίφτ",
+        "Тейлор Свифт",
+        "Тейлор Свифт",
+        "Тейлор Свифт",
+        "Тейлор Свіфт",
+        "Тейлър Суифт",
+        "Тејлор Свифт",
+        "Тејлор Свифт",
+        "Тэйлар Свіфт",
+        "Тэйлор Свифт",
+        "Тэйлор Суифт",
+        "Թեյլոր Սվիֆթ",
+        "Թէյլըր Սուիֆթ",
+        "טיילור סוויפט",
+        "טעילאר סוויפט",
+        "تایلر سویفت",
+        "تیلور سوئیفت",
+        "تیلور سوئیفت",
+        "ٹیلر سوئفٹ",
+        "ٹیلر سوئفٹ",
+        "ٹیلر سوئفٹ",
+        "ٹیلر سوئفٹ",
+        "टेलर स्विफ्ट",
+        "टेलर स्विफ्ट",
+        "टेलर स्विफ्ट",
+        "टेलर स्विफ्ट",
+        "टेलर स्विफ्ट",
+        "টেইলর সুইফট",
+        "টেইলৰ ছুইফ্ট",
+        "ਟੇਲਰ ਸਵਿਫਟ",
+        "டேலர் ஸ்விஃப்ட்",
+        "టేలర్ స్విఫ్ట్",
+        "ಟೈಲರ್ ಸ್ವಿಫ್ಟ್",
+        "ടെയിലർ സ്വിഫ്റ്റ്",
+        "ටේලර් ස්විෆ්ට්",
+        "เทย์เลอร์ สวิฟต์",
+        "ເທເລໍ່ ສວິຟ",
+        "တေလာဆွစ်ဖ်",
+        "ტეილორ სვიფტი",
+        "ថេល័រ ស្វីហ្វត៍",
+        "テイラー・スウィフト",
+        "泰勒·史薇芙特",
+        "泰勒·斯威夫特",
+        "泰勒丝",
+        "泰勒絲",
+        "霉霉",
+        "테일러 스위프트"
+    ],
+    "releases": [
+        {
+            "mbid": "0b05a46b-70ca-4c1a-96e3-7c68c4a1e657",
+            "title": "2002 Demo CD",
+            "date": "2002",
+            "status": "Promotion",
+            "label": "Leesport",
+            "genres": [],
+            "tags": [],
+            "recordings": [
+                {
+                    "mbid": "579d877c-ca53-417b-85e9-515d3966e3ba",
+                    "title": "American Boy (acoustic version)",
+                    "length_ms": 196000,
+                    "genres": [],
+                    "tags": []
+                },
+                {
+                    "mbid": "1d9d967d-f64e-45eb-8c21-5c8e245c8aec",
+                    "title": "Lucky You",
+                    "length_ms": 218000,
+                    "genres": [
+                        "country"
+                    ],
+                    "tags": [
+                        "country music",
+                        "country pop",
+                        "indie folk",
+                        "pop music",
+                        "pop rock",
+                        "synth-pop"
+                    ]
+                },
+                {
+                    "mbid": "a32454bb-9708-423c-89b5-f0a2e5871e88",
+                    "title": "Smokey Black Nights",
+                    "length_ms": 194000,
+                    "genres": [
+                        "country"
+                    ],
+                    "tags": [
+                        "country pop",
+                        "indie folk",
+                        "pop rock",
+                        "synth-pop"
+                    ]
+                }
+            ]
+        },
+        {
+            "mbid": "12af5c01-1766-4f67-9517-98d1a810c8d1",
+            "title": "Here You Come Again",
+            "date": "2002",
+            "status": "Promotion",
+            "label": "[no label]",
+            "genres": [],
+            "tags": [],
+            "recordings": [
+                {
+                    "mbid": "a9ec7b7f-02d5-4bc4-87d5-5e32e35db9e1",
+                    "title": "Here You Come Again",
+                    "length_ms": null,
+                    "genres": [
+                        "country"
+                    ],
+                    "tags": [
+                        "country pop"
+                    ]
+                }
+            ]
+        }
+    ]
+}

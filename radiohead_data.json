@@ -1,0 +1,115 @@
+{
+    "mbid": "a74b1b7f-71a5-4011-9441-d0b5e4122711",
+    "name": "Radiohead",
+    "country": "GB",
+    "genres": [
+        "electronic",
+        "rock"
+    ],
+    "tags": [
+        "alternative",
+        "alternative rock",
+        "alternative rock music",
+        "art pop",
+        "art rock",
+        "british",
+        "electronica",
+        "experimental rock",
+        "indie rock",
+        "post-britpop",
+        "progressive rock music"
+    ],
+    "aliases": [
+        "Radio Head",
+        "Radiohead & Thom Yorke",
+        "r/head",
+        "レディオヘッド",
+        "电台司令"
+    ],
+    "releases": [
+        {
+            "mbid": "ca1306a2-1064-4998-a919-ee123fffd7e2",
+            "title": "Radiohead",
+            "date": "1991",
+            "status": "Promotion",
+            "label": "Parlophone",
+            "genres": [],
+            "tags": [],
+            "recordings": [
+                {
+                    "mbid": "7f833f62-7a47-4cfd-aa01-b2947f963f9c",
+                    "title": "Prove Yourself (demo)",
+                    "length_ms": 153000,
+                    "genres": [
+                        "rock"
+                    ],
+                    "tags": [
+                        "alternative rock"
+                    ]
+                },
+                {
+                    "mbid": "f5949d66-5858-424b-8e88-c451a62c151c",
+                    "title": "Inside My Head (demo)",
+                    "length_ms": 199360,
+                    "genres": [],
+                    "tags": []
+                },
+                {
+                    "mbid": "fbbf36c7-6fb1-4f68-8e2d-53ce8e7d9ba5",
+                    "title": "I Can’t (demo)",
+                    "length_ms": 246973,
+                    "genres": [],
+                    "tags": []
+                },
+                {
+                    "mbid": "a28787b1-d380-4c42-956d-07912c4556d7",
+                    "title": "Million Dollar Question (demo)",
+                    "length_ms": 214080,
+                    "genres": [],
+                    "tags": []
+                }
+            ]
+        },
+        {
+            "mbid": "66df698a-7944-3251-b3f6-b62461fedecd",
+            "title": "Drill",
+            "date": "1992-05-05",
+            "status": "Official",
+            "label": "Parlophone",
+            "genres": [],
+            "tags": [],
+            "recordings": [
+                {
+                    "mbid": "4e356722-3972-4513-a839-ffe8a0803104",
+                    "title": "Prove Yourself",
+                    "length_ms": 152733,
+                    "genres": [],
+                    "tags": []
+                },
+                {
+                    "mbid": "e82baf83-3cbf-4f33-9552-99ded0358dad",
+                    "title": "Stupid Car",
+                    "length_ms": 146840,
+                    "genres": [],
+                    "tags": []
+                },
+                {
+                    "mbid": "d52ddd63-9898-4325-b2fe-dbf56ea5f338",
+                    "title": "You",
+                    "length_ms": 203333,
+                    "genres": [],
+                    "tags": []
+                },
+                {
+                    "mbid": "e7c25fa9-545a-4f3b-94be-d6523066b916",
+                    "title": "Thinking About You",
+                    "length_ms": 135293,
+                    "genres": [
+                        "rock"
+                    ],
+                    "tags": []
+                }
+            ]
+        }
+    ]
+}

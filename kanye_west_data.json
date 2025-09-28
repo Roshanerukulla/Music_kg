@@ -1,0 +1,74 @@
+{
+    "mbid": "41ff7032-f14b-4cf8-acf3-54b545927f8d",
+    "name": "Go West",
+    "country": "GB",
+    "genres": [
+        "pop"
+    ],
+    "tags": [
+        "english",
+        "pop rock",
+        "sophisti-pop",
+        "synth-pop"
+    ],
+    "aliases": [],
+    "releases": [
+        {
+            "mbid": "de2747ec-c3a2-4fb3-8300-d24980f2ec40",
+            "title": "We Close Our Eyes (Total Overhang Mix)",
+            "date": "1985-04-15",
+            "status": "Official",
+            "label": "Chrysalis",
+            "genres": [],
+            "tags": [],
+            "recordings": [
+                {
+                    "mbid": "4f922eb7-41bc-44cd-ab32-a129e8c8d740",
+                    "title": "We Close Our Eyes (Total Overhang Club Mix)",
+                    "length_ms": 400000,
+                    "genres": [],
+                    "tags": []
+                },
+                {
+                    "mbid": "9be13b95-6a60-4053-9cfb-b4c40bb86c73",
+                    "title": "We Close Our Eyes (Total Overhang Dub Mix)",
+                    "length_ms": 355000,
+                    "genres": [],
+                    "tags": []
+                },
+                {
+                    "mbid": "36cccb39-ca30-4173-8efc-8b93e6d0d4c3",
+                    "title": "Missing Persons",
+                    "length_ms": 326333,
+                    "genres": [],
+                    "tags": []
+                }
+            ]
+        },
+        {
+            "mbid": "dd771af9-b212-41ee-8f8d-0111039d01fb",
+            "title": "We Close Our Eyes",
+            "date": "1985",
+            "status": "Official",
+            "label": "Chrysalis",
+            "genres": [],
+            "tags": [],
+            "recordings": [
+                {
+                    "mbid": "1bab464c-c30c-4a76-a3a4-d0525e7e0936",
+                    "title": "We Close Our Eyes",
+                    "length_ms": 227000,
+                    "genres": [],
+                    "tags": []
+                },
+                {
+                    "mbid": "36cccb39-ca30-4173-8efc-8b93e6d0d4c3",
+                    "title": "Missing Persons",
+                    "length_ms": 326333,
+                    "genres": [],
+                    "tags": []
+                }
+            ]
+        }
+    ]
+}

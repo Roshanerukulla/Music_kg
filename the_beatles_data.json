@@ -1,0 +1,169 @@
+{
+    "mbid": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+    "name": "The Beatles",
+    "country": "GB",
+    "genres": [
+        "pop",
+        "rock"
+    ],
+    "tags": [
+        "1960s",
+        "60s",
+        "beat",
+        "british",
+        "british invasion",
+        "classic rock",
+        "europe",
+        "liverpool",
+        "mainstream rock",
+        "merseybeat",
+        "pop rock",
+        "popular music",
+        "psychedelia",
+        "psychedelic pop",
+        "psychedelic rock",
+        "rock and roll",
+        "rock groups",
+        "rock music"
+    ],
+    "aliases": [
+        "Beatles",
+        "Beetles",
+        "Bítlarnir",
+        "Die Beatles",
+        "I Beatles",
+        "Les Beatles",
+        "Los Beatles",
+        "The Beatles",
+        "The Silver Beatles",
+        "fab four",
+        "Битлз",
+        "Битлси",
+        "Бітлз",
+        "Պիթլս",
+        "די ביטלס",
+        "הביטלס",
+        "البيتلز",
+        "بیتلز",
+        "بیٹلز",
+        "द बिटल्स",
+        "द बीटल्स",
+        "দ্য বিটল্‌স",
+        "ਦ ਬੀਟਲਜ਼",
+        "ધ બિટલ્સ",
+        "பீட்டில்ஸ்",
+        "ద బీటిల్స్",
+        "ದಿ ಬೀಟಲ್ಸ್",
+        "ദി ബീറ്റിൽസ്",
+        "เดอะบีเทิลส์",
+        "ဘီးတဲလ်အဖွဲ့",
+        "ბითლზი",
+        "ዘ ቢተልስ",
+        "ᱫᱚ ᱵᱤᱴᱞᱮᱥ",
+        "ザ・ビートルズ",
+        "披头士",
+        "披头士乐队",
+        "披头士乐队",
+        "披頭四",
+        "披頭四樂團",
+        "披頭四樂隊",
+        "더 비틀즈"
+    ],
+    "releases": [
+        {
+            "mbid": "c1177b07-b075-4af3-ba89-32d438b047e6",
+            "title": "My Bonnie",
+            "date": "1962-01-05",
+            "status": "Official",
+            "label": "Polydor",
+            "genres": [],
+            "tags": [],
+            "recordings": [
+                {
+                    "mbid": "d77c43a1-7804-46ce-98c3-8da60ebba7ba",
+                    "title": "My Bonnie",
+                    "length_ms": 162160,
+                    "genres": [
+                        "pop",
+                        "rock"
+                    ],
+                    "tags": [
+                        "beat music",
+                        "classic rock",
+                        "merseybeat",
+                        "oldies",
+                        "rock & roll",
+                        "rock and roll"
+                    ]
+                },
+                {
+                    "mbid": "bb0fc222-e480-48a5-89ec-a564efb3886a",
+                    "title": "The Saints",
+                    "length_ms": 199000,
+                    "genres": [
+                        "rock"
+                    ],
+                    "tags": [
+                        "beat",
+                        "rock & roll",
+                        "rock and roll"
+                    ]
+                }
+            ]
+        },
+        {
+            "mbid": "0805a5cf-d036-41c3-bc9b-af52aa01b21b",
+            "title": "Love Me Do",
+            "date": "1962-10-05",
+            "status": "Promotion",
+            "label": "Parlophone",
+            "genres": [],
+            "tags": [],
+            "recordings": [
+                {
+                    "mbid": "f87eb4dd-7e3c-4365-a3c8-f144696f5952",
+                    "title": "Love Me Do",
+                    "length_ms": 143906,
+                    "genres": [
+                        "pop",
+                        "rock"
+                    ],
+                    "tags": [
+                        "am pop",
+                        "beat music",
+                        "british invasion",
+                        "british psychedelia",
+                        "contemporary pop/rock",
+                        "early pop/rock",
+                        "early to mid 60's",
+                        "folk-rock",
+                        "merseybeat",
+                        "pop rock",
+                        "pop/rock",
+                        "psychedelic rock",
+                        "psychedelic/garage",
+                        "rock & roll",
+                        "rock and roll",
+                        "rock pop",
+                        "unknown"
+                    ]
+                },
+                {
+                    "mbid": "c84e23aa-20d9-45df-85cb-a6ecdba6e44e",
+                    "title": "P.S. I Love You",
+                    "length_ms": 124000,
+                    "genres": [
+                        "pop",
+                        "rock"
+                    ],
+                    "tags": [
+                        "ballad",
+                        "beat",
+                        "british invasion",
+                        "classic rock"
+                    ]
+                }
+            ]
+        }
+    ]
+}

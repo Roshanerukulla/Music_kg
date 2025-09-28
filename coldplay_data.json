@@ -1,0 +1,130 @@
+{
+    "mbid": "cc197bad-dc9c-440d-a5b5-d52ba2e14234",
+    "name": "Coldplay",
+    "country": "GB",
+    "genres": [
+        "pop",
+        "rock"
+    ],
+    "tags": [
+        "alternative rock",
+        "ambient pop",
+        "art pop",
+        "big music",
+        "britannique",
+        "british",
+        "britpop",
+        "chapel",
+        "dream pop",
+        "english",
+        "indie pop",
+        "indie rock",
+        "parlophone",
+        "piano pop",
+        "piano rock",
+        "pop rock",
+        "pop/rock",
+        "post-britpop",
+        "rock and indie",
+        "uk"
+    ],
+    "aliases": [
+        "Cold Play",
+        "Coolplay",
+        "The Coldplay",
+        "コールドプレイ",
+        "콜드플레이"
+    ],
+    "releases": [
+        {
+            "mbid": "8d2a5f0a-2140-4e74-89ae-ac7f314e7f59",
+            "title": "Safety e.p.",
+            "date": "1998-05-18",
+            "status": "Official",
+            "label": "[no label]",
+            "genres": [],
+            "tags": [],
+            "recordings": [
+                {
+                    "mbid": "c2476a0c-d594-4759-86bc-307500d16c1d",
+                    "title": "Bigger Stronger",
+                    "length_ms": 289133,
+                    "genres": [
+                        "rock"
+                    ],
+                    "tags": [
+                        "acoustic rock",
+                        "alternative",
+                        "alternative rock",
+                        "brit pop and rock",
+                        "britpop",
+                        "indie rock",
+                        "pop rock",
+                        "pop/rock"
+                    ]
+                },
+                {
+                    "mbid": "1521a56b-ad65-4810-8f25-661f23339f76",
+                    "title": "No More Keeping My Feet on the Ground",
+                    "length_ms": 271173,
+                    "genres": [
+                        "indie",
+                        "pop",
+                        "rock"
+                    ],
+                    "tags": [
+                        "acoustic rock",
+                        "alternative",
+                        "alternative rock",
+                        "brit pop and rock",
+                        "indie rock",
+                        "pop rock",
+                        "pop/rock"
+                    ]
+                },
+                {
+                    "mbid": "fd617394-7ac6-4c52-9a7b-7aedf1492a98",
+                    "title": "Such a Rush",
+                    "length_ms": 297000,
+                    "genres": [
+                        "rock"
+                    ],
+                    "tags": [
+                        "acoustic rock",
+                        "alternative rock",
+                        "indie rock",
+                        "pop rock",
+                        "pop/rock"
+                    ]
+                }
+            ]
+        },
+        {
+            "mbid": "8f087da3-05cd-4a84-9543-cdaa69b1dec9",
+            "title": "Ode to Deodorant / Brothers + Sisters",
+            "date": "1998",
+            "status": "Promotion",
+            "label": "[no label]",
+            "genres": [],
+            "tags": [],
+            "recordings": [
+                {
+                    "mbid": "8c21fa50-91ef-45eb-82d3-915eea50b38e",
+                    "title": "Ode to Deodorant",
+                    "length_ms": 264000,
+                    "genres": [],
+                    "tags": []
+                },
+                {
+                    "mbid": "33ff560a-7c81-489a-9a66-50556001dbd1",
+                    "title": "Brothers + Sisters",
+                    "length_ms": 268000,
+                    "genres": [],
+                    "tags": [
+                        "alternative rock"
+                    ]
+                }
+            ]
+        }
+    ]
+}
